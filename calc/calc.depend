@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486055831 source:c:\users\hugo\documents\curso c\calc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484081919 source:c:\users\hugo\documents\curso c\média das notas escolares\main.c
+	<stdio.h>
+	<stdlib.h>
+

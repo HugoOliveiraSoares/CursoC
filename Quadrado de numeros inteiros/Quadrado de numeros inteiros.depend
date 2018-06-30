@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493563878 source:c:\users\hugo\documents\curso c\quadrado de numeros inteiros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

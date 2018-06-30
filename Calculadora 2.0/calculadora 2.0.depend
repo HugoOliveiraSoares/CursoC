@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1484772110 source:c:\users\hugo\documents\curso c\calculadora 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1493595045 source:c:\users\hugo\documents\computação\curso c\calculadora 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
