@@ -12,5 +12,5 @@ void main()
     \" imprime uma aspa dupla
     \0 finaliza o texto
     */
-    printf("\"\"Hugo\n");
+    printf("\"\"\tHugo\n");
 }

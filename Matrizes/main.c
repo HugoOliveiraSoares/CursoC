@@ -12,7 +12,7 @@ int main()
     for(i=0;i<DIML;i++)
     {
         printf("Entre com a linha %i \n",i);
-        scanf("%i",&nomes[i]);
+        scanf("%d",&nomes[i]);
 
     } // end for
 
@@ -20,6 +20,7 @@ int main()
     {
         printf("O nome %i e ",i);
         printf(nomes[i]);
+        printf("\n");
     }
 
     return 0;

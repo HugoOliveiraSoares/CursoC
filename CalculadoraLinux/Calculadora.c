@@ -65,9 +65,10 @@ int main()
 
           resultado = num1 / num2;
         }
+        printf("\n O Resultado é: %f\n\n", resultado);
      }
 
-     printf("\n O Resultado é: %f\n\n", resultado);
+     //printf("\n O Resultado é: %f\n\n", resultado);
      fim:
      printf(" Precione enter para continuar!\n");
      getchar();

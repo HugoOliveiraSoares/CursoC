@@ -22,7 +22,7 @@ void codifica()
         if(ch=='$')
         {
             ok = 1;
-            continue; // pula para a função printf
+            continue; // pula para a funï¿½ï¿½o printf
         }
         printf("%c",ch + 2);
 
