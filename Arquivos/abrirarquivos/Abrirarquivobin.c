@@ -3,10 +3,12 @@
 int main()
 {
   FILE *fp;
-  fp = fopen ("teste.bin","wb");
+  fp = fopen ("teste/teste.bin","wb");
+  
   if(!fp)
   {
     printf("Erro na abertura do arquivo.\n");
   }
+
   fclose(fp);
 }
