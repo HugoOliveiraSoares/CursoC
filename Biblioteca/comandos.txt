@@ -1,0 +1,9 @@
+gcc -c nomedalib.c -o nomedalib.o // compila a biblioteca
+    --> gcc -c biblioteca.c -o biblioteca.o
+
+ar cr nomedalib.a nomedalib.o //criar arquivo .a (biblioteca estática)
+
+gcc main.c ./nomedapasta/nomedalib.o -o main // Compila o codigo main
+    --> gcc main.c ./lib/biblioteca.o -I./lib -o main
+
+gcc main.c biblioteca.c -o main
